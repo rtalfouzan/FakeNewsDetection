@@ -1,0 +1,31 @@
+{
+  "lang":"ar",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.2.1,<3.3.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"800737b41",
+  "vectors":{
+    "width":300,
+    "vectors":1476715,
+    "keys":1476715,
+    "name":"ar_pipeline.vectors",
+    "mode":"default"
+  },
+  "labels":{
+
+  },
+  "pipeline":[
+
+  ],
+  "components":[
+
+  ],
+  "disabled":[
+
+  ]
+}
